@@ -6,6 +6,12 @@
 ![border](./assets/img/Nest_cheatsheet.png)
 
 
+```
+$ npm install -g @nestjs/cli
+nest new name-app
+```
+
+
 # Sommaire
 
 - [Objectif et Consignes](#objectif-et-consignes)
