@@ -1,8 +1,10 @@
 # Nest CheatSheet
+![border](./assets/line/border_deco_rt.png)
 
 <!-- Main image  -->
 
-![border](./assets/line/border_deco_rt.png)
+![border](./assets/img/Nest_cheatsheet.png)
+
 
 # Sommaire
 
